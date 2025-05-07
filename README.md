@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Всем привет, меня зовут Максим и я начинающий python-разработчик.
 <!--
 **MaxTor2001/MaxTor2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
