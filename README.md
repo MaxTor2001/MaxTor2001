@@ -1,4 +1,4 @@
-<h1 align="left">Hi there 👋, I'm <a href="https://github.com/MaxTor2001/" target="_blank">Maxim</a> 
+<h1 center="left">Hi there 👋, I'm <a href="https://github.com/MaxTor2001/" target="_blank">Maxim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">Всем привет, меня зовут Максим и я начинающий python-разработчик</h3>
 
