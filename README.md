@@ -1,6 +1,7 @@
 <h1 align="center">Hi there 👋, I'm <a href="https://github.com/MaxTor2001/" target="_blank">Maxim</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="left">Всем привет, меня зовут Максим и я начинающий python-разработчик</h3>
+<h3 align="left">Оформление данной страницы находится в разработке</h3>
 
 [![codewars](https://www.codewars.com/users/Max200189/badges/large)](https://www.codewars.com/users/Max200189)   
 
