@@ -23,9 +23,9 @@
 ## 🛠️ Skills
 
 - **Языки:** Python (основной), основы HTML/CSS.
-- **Технологии:** Git, GitHub, базовые алгоритмы.
-- **Инструменты:** VS Code, PyCharm, Linux CLI.
-- 🌱 *В процессе изучения: Django, Flask, SQL.*
+- **Технологии:** Git, GitHub, Docker, SQL, базовые алгоритмы.
+- **Инструменты:** VS Code, Linux CLI.
+- 🌱 *В процессе изучения: Django, FAST API.
 
 ---
 
@@ -53,7 +53,7 @@
 ## 📫 Contact
 
 - **GitHub:** [MaxTor2001](https://github.com/MaxTor2001/)
-- **Telegram:** @ваш_никнейм (если есть)
-- **Email:** ваш_email@example.com
+- **Telegram:** @M T
+- **Email:** maxtor2008@mail.ru
 
 > **P.S.** Оформление профиля активно дорабатывается. Спасибо за визит! ✨
