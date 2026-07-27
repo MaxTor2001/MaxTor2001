@@ -34,7 +34,7 @@ Infrastructure: Linux (incl. Astra Linux), Windows Server & Active Directory, TC
 Development & Automation: Python, Django, Django REST Framework, SQL, pytest, Git/GitHub, Docker & Docker Compose, Nginx, Bash — learning AWS, Terraform, Kubernetes
 
 📫 Contact
-Email: maxtor2008@mail.ru
+Email: maxtor77177@gmail.com
 GitHub: @MaxTor2001
 
 ## 🏆 Achievements
