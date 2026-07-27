@@ -23,8 +23,11 @@ I've spent the last 14+ years in information security — security architecture,
 💬 Open to Security Engineer / DevSecOps roles, remote or on-site
 🚀 Featured projects
 my-first-django-shop — full-stack e-commerce app (Python/Django backend, HTML/CSS frontend), containerized with Docker Compose and served via Nginx.
+
 fstek-239-fstek —  Maps modeled information security threats to required protective measures under Russian FSTEC Order No. 239 (critical infrastructure protection) — automates threat-to-control matching by CII significance category.
+
 github-actions-test — CI/CD pipeline example using GitHub Actions.
+
 Deployment/DevSecOps capstone — in progress: deploying the Django shop to AWS via Terraform, with a CI/CD pipeline that runs dependency security scanning before deploy.
 🛠️ Skills
 Security: Threat modeling & risk assessment, vulnerability assessment, network security (NGFW/IPS), SIEM (Kaspersky Security Center), OWASP Top 10, security compliance & system certification, incident response
