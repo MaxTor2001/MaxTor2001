@@ -12,48 +12,33 @@
 
 ---
 
-## 👨‍💻 About Me
+Information Security Engineer (14+ yrs) → building toward Security Engineering / DevSecOps
 
-Всем привет! Меня зовут Максим, и я начинающий Python-разработчик.
+I've spent the last 14+ years in information security — security architecture, threat modeling, network security (firewall/IPS), regulatory compliance, and infrastructure hardening across Linux, Windows Server/AD, and enterprise environments in the public and private sector. I'm now adding software development and automation skills — Python, Django, Docker, and cloud/IaC (AWS, Terraform, Kubernetes) — to move into Security Engineering / DevSecOps roles that combine both sides of the work.
 
-В настоящее время я активно изучаю основы программирования, практикуюсь в решении задач и работаю над собственными проектами. Моя цель — стать уверенным специалистом и внести свой вклад в интересные open-source инициативы.
+🔐 Background: threat modeling, vulnerability assessment, network security, SIEM, compliance & system certification, incident response
+🐍 Currently building: Python, Django, REST APIs, Docker, AWS, Terraform, Kubernetes
+📜 Pursuing: CompTIA Security+
+📍 Based in St. Petersburg, Russia — relocating to Belgrade, Serbia
+💬 Open to Security Engineer / DevSecOps roles, remote or on-site
+🚀 Featured projects
+my-first-django-shop — full-stack e-commerce app (Python/Django backend, HTML/CSS frontend), containerized with Docker Compose and served via Nginx.
+fstek-239-fstek —  (description coming — built from real compliance/security work, not a coursework exercise).
+github-actions-test — CI/CD pipeline example using GitHub Actions.
+Deployment/DevSecOps capstone — in progress: deploying the Django shop to AWS via Terraform, with a CI/CD pipeline that runs dependency security scanning before deploy.
+🛠️ Skills
+Security: Threat modeling & risk assessment, vulnerability assessment, network security (NGFW/IPS), SIEM (Kaspersky Security Center), OWASP Top 10, security compliance & system certification, incident response
 
----
+Infrastructure: Linux (incl. Astra Linux), Windows Server & Active Directory, TCP/IP, Cisco/Eltex networking
 
-## 🛠️ Skills
+Development & Automation: Python, Django, Django REST Framework, SQL, pytest, Git/GitHub, Docker & Docker Compose, Nginx, Bash — learning AWS, Terraform, Kubernetes
 
-- **Языки:** Python (основной), основы HTML/CSS.
-- **Технологии:** Git, GitHub, Docker, SQL, базовые алгоритмы.
-- **Инструменты:** VS Code, Linux CLI.
-- 🌱 *В процессе изучения: Django, FAST API.
-
----
+📫 Contact
+Email: maxtor2008@mail.ru
+GitHub: @MaxTor2001
 
 ## 🏆 Achievements
 
 [![Codewars](https://www.codewars.com/users/Max200189/badges/large)](https://www.codewars.com/users/Max200189)
 
----
 
-## 🚀 Projects
-
-*Здесь будут ссылки на мои репозитории и описание проектов. Оформление в разработке.*
-
-- 📦 [https://github.com/MaxTor2001/my-first-django-shop] — мой первый интерент магазин на Django.
-
----
-
-## 🤝 Collaboration
-
-- 👯 Я открыт к сотрудничеству и готов учиться у опытных разработчиков.
-- 💬 Если у вас есть идеи или предложения — не стесняйтесь писать!
-
----
-
-## 📫 Contact
-
-- **GitHub:** [MaxTor2001](https://github.com/MaxTor2001/)
-- **Telegram:** @M T
-- **Email:** maxtor2008@mail.ru
-
-> **P.S.** Оформление профиля активно дорабатывается. Спасибо за визит! ✨
