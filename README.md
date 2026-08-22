@@ -19,7 +19,6 @@ I've spent the last 14+ years in information security — security architecture,
 🔐 Background: threat modeling, vulnerability assessment, network security, SIEM, compliance & system certification, incident response
 🐍 Currently building: Python, Django, REST APIs, Docker, AWS, Terraform, Kubernetes
 📜 Pursuing: CompTIA Security+
-📍 Based in St. Petersburg, Russia — relocating to Belgrade, Serbia
 💬 Open to Security Engineer / DevSecOps roles, remote or on-site
 🚀 Featured projects
 my-first-django-shop — full-stack e-commerce app (Python/Django backend, HTML/CSS frontend), containerized with Docker Compose and served via Nginx.
